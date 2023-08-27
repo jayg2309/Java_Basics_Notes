@@ -13,8 +13,8 @@ public class Basics {
 //            count++;
 //        }
         // FOR LOOP
-        for (int count =1 ; count != 5;count++){
-            System.out.println(count);
+//        for (int count =1 ; count != 5;count++){
+//            System.out.println(count);
         }
     }
 }
